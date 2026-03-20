@@ -11,7 +11,6 @@
 
 국민건강영양조사(KNHANES) 2020–2024 데이터에 **연령군(중장년 40–59세 / 고령 60세+) × 성별(남/여) 교차 층화**를 적용하여 4개 독립 모형을 구축하고, 그룹별 맞춤형 반사실 개입 경로를 도출합니다.
 
-> **관련 해외 논문**: Yang, M., & Chun, H. (2025). LLM-Guided Counterfactual Intervention for Comorbid Chronic Disease Risk in Health Insurance. *(해외 학술지 투고 예정)*  
 > 본 레포지토리는 연령×성별 교차 층화 설계를 적용한 국내 보험학 연구의 독립 재수행 결과입니다.
 
 ---
